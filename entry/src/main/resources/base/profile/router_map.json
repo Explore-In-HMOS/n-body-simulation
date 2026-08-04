@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "SimulationPage",
+      "pageSourceFile": "src/main/ets/pages/SimulationPage.ets",
+      "buildFunction": "SimulationPageBuilder",
+      "data": {
+        "description": "SimulationPage"
+      }
+    }
+  ]
+}
